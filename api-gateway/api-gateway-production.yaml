@@ -1,0 +1,4 @@
+api-gateway:
+  profile: production
+  comment: Hello! production cofig
+  
